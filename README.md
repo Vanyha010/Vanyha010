@@ -7,9 +7,12 @@ Software developer
 ## My projects  
 ### RSSchool   
 [CSS selectors game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q1/rs-css/dist/) \
-[Minesweeper game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q1/minesweeper/) \
 [English puzzle game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q4/rss-puzzle/dist/) \
-[Pets shelter website](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q1/shelter/main)
+[Nonograms game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q4/nonograms/dist/) \
+[Pets shelter website](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q1/shelter/main) \
+[Minesweeper game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q1/minesweeper/) \
+[Cafe website](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q4/coffee-house/home) \
+[Hangman game](https://rolling-scopes-school.github.io/vanyha010-JSFE2023Q4/hangman/dist/)
 
 ## Code examples  
 ### JavaScript 
