@@ -11,9 +11,9 @@ Software developer
 
 ## Code examples  
 ### JavaScript 
-https://github.com/Vanyha010/core-js-functions\
-https://github.com/Vanyha010/core-js-promises\
-https://github.com/Vanyha010/core-js-dates\
+https://github.com/Vanyha010/core-js-functions \
+https://github.com/Vanyha010/core-js-promises \
+https://github.com/Vanyha010/core-js-dates \
 
 https://github.com/Vanyha010/core-js-objects
 https://github.com/Vanyha010/core-js-arrays
