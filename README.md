@@ -14,18 +14,17 @@ Software developer
 https://github.com/Vanyha010/core-js-functions \
 https://github.com/Vanyha010/core-js-promises \
 https://github.com/Vanyha010/core-js-dates \
-
-https://github.com/Vanyha010/core-js-objects
-https://github.com/Vanyha010/core-js-arrays
-https://github.com/Vanyha010/core-js-conditions-n-loops-tasks
-https://github.com/Vanyha010/core-js-strings
-https://github.com/Vanyha010/core-js-numbers
-https://github.com/Vanyha010/morse-decoder
-https://github.com/Vanyha010/human-readable-number
-https://github.com/Vanyha010/brackets
-https://github.com/Vanyha010/towel-sort
-https://github.com/Vanyha010/reverse-int
-https://github.com/Vanyha010/basic-js
-https://github.com/Vanyha010/basic-js-ds
+https://github.com/Vanyha010/core-js-objects \
+https://github.com/Vanyha010/core-js-arrays \
+https://github.com/Vanyha010/core-js-conditions-n-loops-tasks \
+https://github.com/Vanyha010/core-js-strings \
+https://github.com/Vanyha010/core-js-numbers \
+https://github.com/Vanyha010/morse-decoder \
+https://github.com/Vanyha010/human-readable-number \
+https://github.com/Vanyha010/brackets \
+https://github.com/Vanyha010/towel-sort \
+https://github.com/Vanyha010/reverse-int \
+https://github.com/Vanyha010/basic-js \
+https://github.com/Vanyha010/basic-js-ds \
 ### NodeJS  
 https://github.com/Vanyha010/HTML-builder-2 
