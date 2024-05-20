@@ -25,6 +25,6 @@ https://github.com/Vanyha010/brackets \
 https://github.com/Vanyha010/towel-sort \
 https://github.com/Vanyha010/reverse-int \
 https://github.com/Vanyha010/basic-js \
-https://github.com/Vanyha010/basic-js-ds \
+https://github.com/Vanyha010/basic-js-ds
 ### NodeJS  
 https://github.com/Vanyha010/HTML-builder-2 
